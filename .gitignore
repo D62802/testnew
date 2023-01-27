@@ -1,0 +1,6 @@
+/node_modules
+node_modules
+node_modules\
+git remote add origin https://github.com/D62802/testnew.git
+git branch -M main
+git push -u origin main
